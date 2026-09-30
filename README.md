@@ -43,6 +43,7 @@ The predicted churn probability and risk category can be used to prioritize cust
 - Retention actions are generated based on the customer's predicted churn risk.
 
   ## 📈 Model Results
+  
 
 ### Model Comparison
 
@@ -52,6 +53,7 @@ The predicted churn probability and risk category can be used to prioritize cust
 | Decision Tree | 78.36% | 64.78% | 40.05% | 49.50% | 82.17% |
 | Random Forest | 78.93% | 64.73% | 44.89% | 53.02% | 83.74% |
 | Tuned Logistic Regression | **80.28%** | **66.78%** | **50.81%** | **57.71%** | **84.05%** |
+
 
 ### Final Model
 
